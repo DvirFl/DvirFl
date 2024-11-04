@@ -2,6 +2,7 @@
 
 ### If you'd like to know
 - 🔭 I’m currently working on higher precision for Mandelbrot set iterations 🆕
+- :toilet: Also working on garbage recognition with YOLOv8 and Mask R-CNN
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on any Heliosphere research
 - 🤔 I’m looking for help with ML & DS 
